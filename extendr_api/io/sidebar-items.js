@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["load","save"],"trait":["Load","Save"],"type":["PstreamFormat"]};

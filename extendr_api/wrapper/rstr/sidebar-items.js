@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["charsxp_to_str"],"struct":["Rstr"]};
